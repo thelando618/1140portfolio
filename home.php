@@ -10,8 +10,20 @@
 				Try resizing the window to see it in action!
 			</p>
 		</div>
-		<div class="threecol last">
-			
+		<div class="threecol get-in-touch last">
+			<img src="images/get-in-touch-icon.png" alt="Speech bubble" title="speech bubble" target="_blank"/>
+			<h2>Get In Touch</h2>
+			<div class="row">
+				<div class="fourcol">
+					<a href="#" class="twitter icon"></a>
+				</div>
+				<div class="fourcol">
+					<a href="http://www.linkedin.com/pub/landon-zirkelbach/18/869/682" class="twitter icon" target="_blank"></a>
+				</div>
+				<div class="fourcol last">
+					<a href="mailto:landonzirkelbach@gmail.com" class="email icon" target="_blank"></a>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

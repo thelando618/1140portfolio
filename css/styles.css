@@ -3,9 +3,51 @@
 /* ============================== */
 
 	body {
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 16px;
+		line-height: 24px;
+	}
+	a { text-decoration: none; }
+	/* 
+	 * 
+	 * Navigation Container Styling Universal Across Pages. 
+	 * 
+	 */
+	.nav-container {
+		background: #FAFCFE;
+		height: 7.8125em;
+	}
+	.nav-container h1, .nav-container h1 a {
+		color: #000000;
+		font-size: 1.5em;
+		line-height: 3.21em;
 		
 	}
-	
+	.nav-container nav ul li {
+		float: left;
+		line-height: 7.8125em;
+		margin-right: 2em;
+	}
+	.nav-container nav ul li a {
+		color: #000000;
+		font-size: 14px;
+		font-style: italic;
+		font-weight: bold;
+		line-height: 28px;
+		padding: 0.214em 0.571em;
+	}
+	.nav-container nav ul li.active a, .nav-cotnainer nav ul li:hover a {
+		background-color: #A5352A;
+		border: 1px solid #811313;
+		border-radius: 10px;
+		color: #ffffff;
+		text-shadow: 1px 1px 1px #490707;
+	}
+	/*
+	 * 
+	 * Home Container styling. only on home page. 
+	 * 
+	 */
 
 /* ============================= */
 /* ! Layout for mobile version   */

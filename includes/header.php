@@ -14,6 +14,9 @@
 	<!-- 1140px Grid styles for IE -->
 	<!--[if lte IE 9]><link rel="stylesheet" href="css/ie.css" type="text/css" media="screen" /><![endif]-->
 
+	<!-- CSS Reset from Starkers theme -->
+	<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen" />
+	
 	<!-- The 1140px Grid - http://cssgrid.net/ -->
 	<link rel="stylesheet" href="css/1140.css" type="text/css" media="screen" />
 	
@@ -31,13 +34,13 @@
 	
 <div class="container nav-container">
 	<div class="row">
-		<div class="tencol">
+		<div class="ninecol">
 			<h1 id="title"><a href="home.php">LandonZirkelbach.com</a></h1>
 		</div>
-		<div class="twocol last">
+		<div class="threecol last">
 			<nav>
 				<ul>
-					<li><a href="home.php">Home</a></li>
+					<li class="active"><a href="home.php">Home</a></li>
 					<li><a href="home.php">Portfolio</a></li>				
 				</ul>
 			</nav>	
