@@ -27,6 +27,21 @@
 	
 
 </head>
-
-
 <body>
+	
+<div class="container nav-container">
+	<div class="row">
+		<div class="tencol">
+			<h1 id="title"><a href="home.php">LandonZirkelbach.com</a></h1>
+		</div>
+		<div class="twocol last">
+			<nav>
+				<ul>
+					<li><a href="home.php">Home</a></li>
+					<li><a href="home.php">Portfolio</a></li>				
+				</ul>
+			</nav>	
+		</div>
+		
+	</div>
+</div>

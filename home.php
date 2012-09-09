@@ -1,33 +1,20 @@
 <?php include 'includes/header.php'; ?>
-	<div id="main-container">
-		<div id="main" class="wrapper clearfix">
+<div class="home-container container">
+	<div class="row">
+		<div class="ninecol">
+			<h1 class="intro">My name is <strong>Landon Zirkelbach</strong> and I am a <strong>Front-End Developer</strong> consistently looking for the next challenge.</h1>
+			<p class="intro-text">I stay up to date on emerging techniques and look to implement each one as necessary into the project I work with. I specialize in <strong>HTML, 
+				CSS, and jQuery</strong>. I have created websites from scratch but also worked with different frameworks and systems. Some technologies I have worked 
+				with include <strong>Wordpress, Drupal, CodeIgniter, HTML5 Boilerplate, and Twitter Bootstrap</strong>. I have built mobile web sites, and even created 
+				responsive web sites that adjust for which ever device you are using to view a site. This website was built to be responsive. 
+				Try resizing the window to see it in action!
+			</p>
+		</div>
+		<div class="threecol last">
 			
-			<article>
-				<header>
-					<h1>article header h1</h1>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec.</p>
-				</header>
-				<section>
-					<h2>article section h2</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.</p>
-				</section>
-				<section>
-					<h2>article section h2</h2>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices. Proin in est sed erat facilisis pharetra.</p>
-				</section>
-				<footer>
-					<h3>article footer h3</h3>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor.</p>
-				</footer>
-			</article>
-			
-			<aside>
-				<h3>aside</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales urna non odio egestas tempor. Nunc vel vehicula ante. Etiam bibendum iaculis libero, eget molestie nisl pharetra in. In semper consequat est, eu porta velit mollis nec. Curabitur posuere enim eget turpis feugiat tempor. Etiam ullamcorper lorem dapibus velit suscipit ultrices.</p>
-			</aside>
-			
-		</div> <!-- #main -->
-	</div> <!-- #main-container -->
+		</div>
+	</div>
+</div>
 	
 
 <?php include 'includes/footer.php'; ?>
