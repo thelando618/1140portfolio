@@ -8,6 +8,12 @@
 		line-height: 24px;
 	}
 	a { text-decoration: none; }
+	.center { text-align: center; }
+	.right { text-align: right;}
+	.float-left { float: left; }
+	.float-right { float: right; }
+	.bold { font-weight: bold; }
+	.italic { font-style: italic; }
 	/* 
 	 * 
 	 * Navigation Container Styling Universal Across Pages. 
@@ -43,12 +49,78 @@
 		color: #ffffff;
 		text-shadow: 1px 1px 1px #490707;
 	}
+	.get-in-touch .icon {
+		display: block;
+		float: left;
+		height: 42px;
+		margin-right: 1em;
+		width: 50px;
+	}
+	.get-in-touch .twitter {
+		background: url(../images/contact.png) 0 0 no-repeat;
+	}
+	.get-in-touch .twitter:hover {
+		
+	}	
+	.get-in-touch .linked {
+		background: url(../images/contact.png) -71px 0 no-repeat;		
+	}
+	.get-in-touch .linked:hover {
+		
+	}
+	.get-in-touch .email {
+		background: url(../images/contact.png) -130px 0 no-repeat;		
+	}
+	.get-in-touch .email:hover {
+		
+	}
 	/*
 	 * 
 	 * Home Container styling. only on home page. 
 	 * 
 	 */
-
+	.home-container {
+		background: #bb342b;
+		background: -moz-linear-gradient(top,  #bb342b 0%, #992b23 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bb342b), color-stop(100%,#992b23));
+		background: -webkit-linear-gradient(top,  #bb342b 0%,#992b23 100%);
+		background: -o-linear-gradient(top,  #bb342b 0%,#992b23 100%);
+		background: -ms-linear-gradient(top,  #bb342b 0%,#992b23 100%);
+		background: linear-gradient(to bottom,  #bb342b 0%,#992b23 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb342b', endColorstr='#992b23',GradientType=0 );
+	}
+	.home-container .row {
+		padding: 3.25em 0;
+	}
+	.home-container h1.intro {
+		color: #000000;
+		font-size: 1.75em;
+		line-height: 0.875em;
+		margin: 0 2em 0.5em 0;
+		text-transform: uppercase;	
+	}
+	.home-container h1.intro strong {
+		color: #ffffff;
+		font-weight: bold;
+	}
+	.home-container p.intro-text {
+		color: #e8cccc;
+		font-size: 0.875em; 
+	}
+	.home-container p.intro-text strong {
+		color: #f9f9f9;
+		font-weight: bold;
+	}
+	.home-container .get-in-touch img {
+		text-align: center;
+	}
+	.home-container .get-in-touch h2 {
+		color: #5b1c15;
+		font-size: 1.125em; /* Set as 18 until i get font issue fixed. Font size should be 36px */
+		font-weight: normal;
+		text-align: center;
+		text-transform: uppercase;
+	}
 /* ============================= */
 /* ! Layout for mobile version   */
 /* ============================= */
