@@ -49,31 +49,6 @@
 		color: #ffffff;
 		text-shadow: 1px 1px 1px #490707;
 	}
-	.get-in-touch .icon {
-		display: block;
-		float: left;
-		height: 42px;
-		margin-right: 1em;
-		width: 50px;
-	}
-	.get-in-touch .twitter {
-		background: url(../images/contact.png) 0 0 no-repeat;
-	}
-	.get-in-touch .twitter:hover {
-		
-	}	
-	.get-in-touch .linked {
-		background: url(../images/contact.png) -71px 0 no-repeat;		
-	}
-	.get-in-touch .linked:hover {
-		
-	}
-	.get-in-touch .email {
-		background: url(../images/contact.png) -130px 0 no-repeat;		
-	}
-	.get-in-touch .email:hover {
-		
-	}
 	/*
 	 * 
 	 * Home Container styling. only on home page. 
@@ -116,10 +91,42 @@
 	}
 	.home-container .get-in-touch h2 {
 		color: #5b1c15;
-		font-size: 1.125em; /* Set as 18 until i get font issue fixed. Font size should be 36px */
+		font-size: 1.5em; /* Set as 24 until i get font issue fixed. Font size should be 36px */
 		font-weight: normal;
 		text-align: center;
 		text-transform: uppercase;
+	}
+	.get-in-touch {
+		border-bottom: 1px solid #84241e;
+		border-top: 1px solid #84241e;
+		padding: 1.5em 0;
+	}
+	.get-in-touch {
+		
+	}
+	.home-portfolio {
+		margin-top: 3.125em;
+	}
+	.home-portfolio img {
+		border: 0.625em solid #FFFFFF;
+		border-radius: 5px;
+		box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.42);
+		-moz-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.42);
+		-webkit-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.42);
+		-o-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.42);
+		-ms-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.42);
+		margin: 0.2em 0.7em;
+		transition: box-shadow 1s;
+		-moz-transition: box-shadow 1s; /* Firefox 4 */
+		-webkit-transition: box-shadow 1s; /* Safari and Chrome */
+		-o-transition: box-shadow 1s; /* Opera */
+	}
+	.home-portfolio img:hover {
+		box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
+		-moz-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
+		-webkit-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
+		-o-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
+		-ms-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
 	}
 /* ============================= */
 /* ! Layout for mobile version   */
