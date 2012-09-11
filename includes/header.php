@@ -27,7 +27,8 @@
 	<script src="js/libs/modernizr-2.0.6.min.js"></script>
 	<!--css3-mediaqueries-js - http://code.google.com/p/css3-mediaqueries-js/ - Enables media queries in some unsupported browsers-->
 	<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
-	
+	<script type="text/javascript" src="js/jquery-ui-1.8.23.custom.min.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 
 </head>
 <body>

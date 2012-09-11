@@ -101,7 +101,25 @@
 		border-top: 1px solid #84241e;
 		padding: 1.5em 0;
 	}
-	.get-in-touch {
+	.get-in-touch .icons {
+		text-align: center;
+	}
+	.get-in-touch .icons img {
+		margin-right: 0.3125em;
+	}
+	.get-in-touch .icons a:last-child img {
+		margin-right: 0;
+	}
+	.get-in-touch .twitter {
+		
+	}
+	.get-in-touch .twitter:hover {
+		
+	}
+	.get-in-touch .linked {
+		
+	}
+	.get-in-touch .mail {
 		
 	}
 	.home-portfolio {
@@ -127,6 +145,45 @@
 		-webkit-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
 		-o-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
 		-ms-box-shadow: 0 1px 2px 2px rgba(0, 0, 0, 0.75);
+	}
+	
+	/* Footer styling */
+	.footer-container {
+		background-color: #000000;
+		padding-top: 3em;
+		padding-bottom: 3em;
+		text-align: right;
+	}
+	.footer-container h1 {
+		color: #ebebeb;
+		font-size: 2em;
+		padding-bottom: 0.5em;
+	}
+	.footer-container h1 a.btn {
+		background: #C14E43;
+		background: -moz-linear-gradient(top,  #95221a 0%, #c6382d 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#95221a), color-stop(100%,#c6382d));
+		background: -webkit-linear-gradient(top,  #95221a 0%,#c6382d 100%);
+		background: -o-linear-gradient(top,  #95221a 0%,#c6382d 100%);
+		background: -ms-linear-gradient(top,  #95221a 0%,#c6382d 100%);
+		background: linear-gradient(to bottom,  #95221a 0%,#c6382d 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#95221a', endColorstr='#c6382d',GradientType=0 );
+		border: 1px solid #b9463b;
+		border-radius: 8px;
+		-webkit-box-shadow: 1px 1px 1px 1px #611e18, inset 1px 1px 0px 1px rgba(255, 255, 255, 0.37);
+        box-shadow: 1px 1px 1px 1px #611e18, inset 1px 1px 0px 1px rgba(255, 255, 255, 0.37);
+		color: #ffffff;
+		font-size: 0.5em;
+		line-height: 2em;
+		margin-right: 0.2em;
+		padding: 0.5em 1.5em;
+		text-shadow: 1px 1px 1px #7e1a13;
+        filter: dropshadow(color=#7e1a13, offx=1, offy=0);
+		text-transform: uppercase;
+		
+	}
+	.footer-container h1 a.btn:hover {
+		
 	}
 /* ============================= */
 /* ! Layout for mobile version   */

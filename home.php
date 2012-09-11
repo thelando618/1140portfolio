@@ -14,9 +14,9 @@
 			<p class="center"><img src="images/get-in-touch-icon.png" alt="Speech bubble" title="speech bubble" target="_blank"/></p>
 			<h2>Get In Touch</h2>
 			<div class="icons">
-				<a href="#" class="threecol twitter icon"><img src="images/contact.png" /></a>
-				<a href="http://www.linkedin.com/pub/landon-zirkelbach/18/869/682" class="threecol linked icon" target="_blank"><img src="images/contact.png" /></a>
-				<a href="mailto:landonzirkelbach@gmail.com" class="threecol email icon" target="_blank"><img src="images/contact.png" /></a>
+				<a href="#" class="twitter icon"><img src="images/twitter.png" /></a>
+				<a href="http://www.linkedin.com/pub/landon-zirkelbach/18/869/682" class="linked icon" target="_blank"><img src="images/linked.png" /></a>
+				<a href="mailto:landonzirkelbach@gmail.com" class="email icon" target="_blank"><img src="images/mail.png" /></a>
 			</div>
 		</div>
 	</div>
