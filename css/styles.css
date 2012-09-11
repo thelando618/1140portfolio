@@ -23,26 +23,27 @@
 		background: #FAFCFE;
 		height: 7.8125em;
 	}
-	.nav-container h1, .nav-container h1 a {
+	.nav-container h1 a {
 		color: #000000;
-		font-size: 1.5em;
+		font-family: 'milwaukeeregular';
+		font-size: 2.875em;
 		line-height: 3.21em;
-		
+		text-transform: uppercase;
 	}
 	.nav-container nav ul li {
 		float: left;
-		line-height: 7.8125em;
-		margin-right: 2em;
+		line-height: 1em;
+		margin: 3.5em 2em 0 0;
 	}
 	.nav-container nav ul li a {
 		color: #000000;
-		font-size: 14px;
+		font-size: 0.875em;
 		font-style: italic;
 		font-weight: bold;
-		line-height: 28px;
+		line-height: 2em;
 		padding: 0.214em 0.571em;
 	}
-	.nav-container nav ul li.active a, .nav-cotnainer nav ul li:hover a {
+	.nav-container nav ul li.active a, .nav-container nav ul li:hover a {
 		background-color: #A5352A;
 		border: 1px solid #811313;
 		border-radius: 10px;
@@ -63,13 +64,15 @@
 		background: -ms-linear-gradient(top,  #bb342b 0%,#992b23 100%);
 		background: linear-gradient(to bottom,  #bb342b 0%,#992b23 100%);
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bb342b', endColorstr='#992b23',GradientType=0 );
+		border-top: 0.125em solid #bb342b;
 	}
 	.home-container .row {
 		padding: 3.25em 0;
 	}
 	.home-container h1.intro {
 		color: #000000;
-		font-size: 1.75em;
+		font-family: 'League Gothic';
+		font-size: 3.125em;
 		line-height: 0.875em;
 		margin: 0 2em 0.5em 0;
 		text-transform: uppercase;	
@@ -91,8 +94,10 @@
 	}
 	.home-container .get-in-touch h2 {
 		color: #5b1c15;
-		font-size: 1.5em; /* Set as 24 until i get font issue fixed. Font size should be 36px */
+		font-family: 'League Gothic';
+		font-size: 2.25em; /* Set as 24 until i get font issue fixed. Font size should be 36px */
 		font-weight: normal;
+		margin: 0.5em 0;
 		text-align: center;
 		text-transform: uppercase;
 	}
@@ -123,7 +128,8 @@
 		
 	}
 	.home-portfolio {
-		margin-top: 3.125em;
+		padding-top: 3.125em;
+		padding-bottom: 14.75em;
 	}
 	.home-portfolio img {
 		border: 0.625em solid #FFFFFF;
@@ -156,8 +162,10 @@
 	}
 	.footer-container h1 {
 		color: #ebebeb;
-		font-size: 2em;
-		padding-bottom: 0.5em;
+		font-family: 'League Gothic';
+		font-size: 3.125em;
+		line-height: 1em;
+		padding-bottom: 0.5em 0;
 	}
 	.footer-container h1 a.btn {
 		background: #C14E43;
@@ -173,10 +181,10 @@
 		-webkit-box-shadow: 1px 1px 1px 1px #611e18, inset 1px 1px 0px 1px rgba(255, 255, 255, 0.37);
         box-shadow: 1px 1px 1px 1px #611e18, inset 1px 1px 0px 1px rgba(255, 255, 255, 0.37);
 		color: #ffffff;
-		font-size: 0.5em;
+		font-size: 0.36em;
 		line-height: 2em;
 		margin-right: 0.2em;
-		padding: 0.5em 1.5em;
+		padding: 0.33em 1.5em;
 		text-shadow: 1px 1px 1px #7e1a13;
         filter: dropshadow(color=#7e1a13, offx=1, offy=0);
 		text-transform: uppercase;
