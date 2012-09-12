@@ -71,11 +71,13 @@ include 'includes/header.php';
 			<div class="portfolio-item">
 				<img src="images/portfolio-morrissey.jpg" />
 			</div>
+			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
 		</div>
 		<div class="threecol last">
 			<div class="portfolio-item">
 				<img src="images/portfolio-jocktalk.jpg" />
 			</div>
+			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
 		</div>
 	</div><!-- End Row -->
 	<div class="row">
@@ -83,21 +85,25 @@ include 'includes/header.php';
 			<div class="portfolio-item">
 				<img src="images/portfolio-steamblade.jpg" />
 			</div>
+			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
 		</div>
 		<div class="threecol">
 			<div class="portfolio-item">
 				<img src="images/portfolio-steambreaker.jpg" />
 			</div>
+			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
 		</div>
 		<div class="threecol">
 			<div class="portfolio-item">
 				<img src="images/portfolio-autoprotect.jpg" />
 			</div>
+			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
 		</div>
 		<div class="threecol last">
 			<div class="portfolio-item">
 				<img src="images/portfolio-flexineb.jpg" />
 			</div>
+			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
 		</div>
 	</div>
 </div>
