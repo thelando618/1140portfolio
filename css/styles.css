@@ -1,7 +1,8 @@
 /* ============================== */
 /* ! Layout for desktop version   */
 /* ============================== */
-
+	::-moz-selection{background:#bb342b; color: #ffffff; text-shadow:none}
+	::selection{background:#bb342b; color: #ffffff; text-shadow:none}
 	body {
 		font-family: Arial, Helvetica, sans-serif;
 		font-size: 16px;
