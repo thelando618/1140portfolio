@@ -124,17 +124,15 @@
 	.get-in-touch .icons a:last-child img {
 		margin-right: 0;
 	}
-	.get-in-touch .twitter {
-		
+	.portfolio-container .get-in-touch .icons img, .home-container .get-in-touch .icons img {
+		position: relative;
 	}
-	.get-in-touch .twitter:hover {
-		
-	}
-	.get-in-touch .linked {
-		
-	}
-	.get-in-touch .mail {
-		
+	.portfolio-container .get-in-touch .icons img:hover {
+		/*transition: top 1s;
+		-moz-transition: top: 1s;
+		transition-timing-function: linear;
+		-moz-transition-timing-function: linear;*/
+		position: relative;
 	}
 	.home-portfolio {
 		padding-top: 3.125em;
@@ -204,6 +202,10 @@
 	}
 	.portfolio p a:hover {
 		color: #000000;
+		transition: color 0.5s;
+		-moz-transition: color 0.5s; /* Firefox 4 */
+		-webkit-transition: color 0.5s; /* Safari and Chrome */
+		-o-transition: color 0.5s; /* Opera */
 	}
 	/* Footer styling */
 	.footer-container {
