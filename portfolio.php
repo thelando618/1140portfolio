@@ -67,7 +67,39 @@ include 'includes/header.php';
 			<p>Custom Drupal site. Site has the ability to add audio demos and categorize accordingly.</p>
 			<p><a href="http://www.taratyler.com" target="_blank">Visit Site</a></p>
 		</div>
+		<div class="threecol">
+			<div class="portfolio-item">
+				<img src="images/portfolio-morrissey.jpg" />
+			</div>
+		</div>
+		<div class="threecol last">
+			<div class="portfolio-item">
+				<img src="images/portfolio-jocktalk.jpg" />
+			</div>
+		</div>
 	</div><!-- End Row -->
+	<div class="row">
+		<div class="threecol">
+			<div class="portfolio-item">
+				<img src="images/portfolio-steamblade.jpg" />
+			</div>
+		</div>
+		<div class="threecol">
+			<div class="portfolio-item">
+				<img src="images/portfolio-steambreaker.jpg" />
+			</div>
+		</div>
+		<div class="threecol">
+			<div class="portfolio-item">
+				<img src="images/portfolio-autoprotect.jpg" />
+			</div>
+		</div>
+		<div class="threecol last">
+			<div class="portfolio-item">
+				<img src="images/portfolio-flexineb.jpg" />
+			</div>
+		</div>
+	</div>
 </div>
 	
 
