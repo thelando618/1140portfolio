@@ -1,5 +1,8 @@
-<?php include 'includes/header.php'; ?>
-<div class="home-container container">
+<?php 
+$activeState = 'Home';
+include 'includes/header.php'; 
+?>
+<div class="red-container home-container container">
 	<div class="row">
 		<div class="ninecol">
 			<h1 class="intro">My name is <strong>Landon Zirkelbach</strong> and I am a <strong>Front-End Developer</strong> consistently looking for the next challenge.</h1>

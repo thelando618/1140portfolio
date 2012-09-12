@@ -42,8 +42,8 @@
 		<div class="threecol last">
 			<nav>
 				<ul>
-					<li class="active"><a href="home.php">Home</a></li>
-					<li><a href="home.php">Portfolio</a></li>				
+					<li class="<?php if($activeState == 'Home') { echo 'active'; } ?>"><a href="home.php">Home</a></li>
+					<li class="<?php if($activeState == 'Portfolio') { echo 'active'; } ?>"><a href="portfolio.php">Portfolio</a></li>				
 				</ul>
 			</nav>	
 		</div>
