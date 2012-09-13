@@ -26,20 +26,26 @@ include 'includes/header.php';
 </div>
 <div class="home-portfolio container">
 	<div class="row">
-		<div class="twelvecol last">
+		<!--<div class="twelvecol last">
 			<a href="#"><img src="images/home-aisle.jpg" /></a>
 			<a href="#"><img src="images/home-aisle.jpg" /></a>
 			<a href="#"><img src="images/home-aisle.jpg" /></a>
-		</div>
-		<!--<div class="fourcol">
-			<a href="#"><img src="images/home-aisle.jpg" /></a>
+		</div>-->
+		<div class="fourcol">
+			<div class="home-portfolio-item">
+				<a href="portfolio.php"><img src="images/home-aisle.jpg" /></a>	
+			</div>
 		</div>
 		<div class="fourcol">
-			<a href="#"><img src="images/home-aisle.jpg" /></a>
+			<div class="home-portfolio-item">
+				<a href="portfolio.php"><img src="images/home-jli.jpg" /></a>	
+			</div>
 		</div>
 		<div class="fourcol last">
-			<a href="#"><img src="images/home-aisle.jpg" /></a>
-		</div>-->		
+			<div class="home-portfolio-item">
+				<a href="portfolio.php"><img src="images/home-morrissey.jpg" /></a>	
+			</div>
+		</div>				
 	</div>
 </div>
 	

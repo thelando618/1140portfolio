@@ -9,7 +9,7 @@ include 'includes/header.php';
 		</div>
 		<div class="threecol get-in-touch last">
 			<div class="icons">
-				<a href="#" class="twitter icon"><img src="images/twitter.png" /></a>
+				<a href="http://twitter.com/thelando618" class="twitter icon" target="_blank"><img src="images/twitter.png" /></a>
 				<a href="http://www.linkedin.com/pub/landon-zirkelbach/18/869/682" class="linked icon" target="_blank"><img src="images/linked.png" /></a>
 				<a href="mailto:landonzirkelbach@gmail.com" class="email icon" target="_blank"><img src="images/mail.png" /></a>
 			</div>
@@ -80,6 +80,7 @@ include 'includes/header.php';
 			</div>
 			<p>Social Media platform built for athletes to interact with plans. Built with CodeIgniter. I coded a significant portion of the front-end of this project.</p>
 			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
+			<p><a href="http://www.jocktalk.com" target="_blank">Visit Site</a></p>
 		</div>
 	</div><!-- End Row -->
 	<div class="row">
@@ -89,6 +90,7 @@ include 'includes/header.php';
 			</div>
 			<p>Custom Wordpress site with multiple custom post types. Custom jQuery calculator and multiple photo galleries. Interacts with third party shopping cart.</p>
 			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
+			<p><a href="http://www.steamblade.com" target="_blank">Visit Site</a></p>
 		</div>
 		<div class="threecol">
 			<div class="portfolio-item">
@@ -96,6 +98,7 @@ include 'includes/header.php';
 			</div>
 			<p>Custom Wordpress site with multiple custom post types. Features multiple photo galleries. Interacts with third party shopping cart.</p>
 			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
+			<p><a href="http://www.steambreaker.com" target="_blank">Visit Site</a></p>
 		</div>
 		<div class="threecol">
 			<div class="portfolio-item">
@@ -103,6 +106,7 @@ include 'includes/header.php';
 			</div>
 			<p>Another cusom landing page built for lead conversion. Sends form data through API calls to 3rd part server.</p>
 			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
+			<p><a href="http://www.autoprotectplan.com" target="_blank">Visit Site</a></p>
 		</div>
 		<div class="threecol last">
 			<div class="portfolio-item">
@@ -110,6 +114,7 @@ include 'includes/header.php';
 			</div>
 			<p>Wordpress site rebranded and made content manageable for client to be able to update more areas of the site.</p>
 			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
+			<p><a href="http://www.flexineb.us" target="_blank">Visit Site</a></p>
 		</div>
 	</div>
 </div>
