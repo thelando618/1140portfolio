@@ -17,7 +17,7 @@ include 'includes/header.php';
 			<p class="center"><img src="images/get-in-touch-icon.png" alt="Speech bubble" title="speech bubble" target="_blank"/></p>
 			<h2>Get In Touch</h2>
 			<div class="icons">
-				<a href="#" class="twitter icon"><img src="images/twitter.png" /></a>
+				<a href="http://twitter.com/thelando618" class="twitter icon" target="_blank"><img src="images/twitter.png" /></a>
 				<a href="http://www.linkedin.com/pub/landon-zirkelbach/18/869/682" class="linked icon" target="_blank"><img src="images/linked.png" /></a>
 				<a href="mailto:landonzirkelbach@gmail.com" class="email icon" target="_blank"><img src="images/mail.png" /></a>
 			</div>
