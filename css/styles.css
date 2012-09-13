@@ -31,6 +31,9 @@
 		line-height: 3.21em;
 		text-transform: uppercase;
 	}
+	.nav-container nav {
+		float: right;
+	}
 	.nav-container nav ul li {
 		float: left;
 		line-height: 1em;

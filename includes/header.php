@@ -36,14 +36,15 @@
 	
 <div class="container nav-container">
 	<div class="row">
-		<div class="ninecol">
-			<h1 id="title"><a href="home.php">LandonZirkelbach.com</a></h1>
+		<div class="eightcol">
+			<h1 id="title"><a href="index.php">LandonZirkelbach.com</a></h1>
 		</div>
-		<div class="threecol last">
+		<div class="fourcol last">
 			<nav>
 				<ul>
-					<li class="<?php if($activeState == 'Home') { echo 'active'; } ?>"><a href="home.php">Home</a></li>
-					<li class="<?php if($activeState == 'Portfolio') { echo 'active'; } ?>"><a href="portfolio.php">Portfolio</a></li>				
+					<li class="<?php if($activeState == 'Home') { echo 'active'; } ?>"><a href="index.php">Home</a></li>
+					<li class="<?php if($activeState == 'Portfolio') { echo 'active'; } ?>"><a href="portfolio.php">Portfolio</a></li>
+					<li><a href="files/Landon_Zirkelbach_Resume.doc">Resume</a></li>				
 				</ul>
 			</nav>	
 		</div>
