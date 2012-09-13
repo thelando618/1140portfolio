@@ -39,6 +39,9 @@
 		line-height: 1em;
 		margin: 3.5em 2em 0 0;
 	}
+	.nav-container nav ul li:last-child {
+		margin-right: 0;
+	}
 	.nav-container nav ul li a {
 		background-color: rgba(165, 53, 42, 0);
 		border: 1px solid rgba(129, 19, 19, 0);
@@ -124,6 +127,9 @@
 	}
 	.get-in-touch .icons {
 		text-align: center;
+	}
+	.portfolio-container .get-in-touch .icons {
+		text-align: right;
 	}
 	.get-in-touch .icons img {
 		margin-right: 0.3125em;
