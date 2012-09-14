@@ -28,17 +28,17 @@ include 'includes/header.php';
 	<div class="row">
 		<div class="fourcol">
 			<div class="home-portfolio-item">
-				<a href="portfolio.php"><img src="images/home-aisle.jpg" /></a>	
+				<a href="portfolio.php"><img src="images/home-aisle.jpg" alt="Aisle 411 Wordpress Design" title="Aisle 411 Wordpress Design" /></a>	
 			</div>
 		</div>
 		<div class="fourcol">
 			<div class="home-portfolio-item">
-				<a href="portfolio.php"><img src="images/home-jli.jpg" /></a>	
+				<a href="portfolio.php"><img src="images/home-jli.jpg" alt="Just Label It Wordpress Design" title="Just Label it Wordpress Design"/></a>	
 			</div>
 		</div>
 		<div class="fourcol last">
 			<div class="home-portfolio-item">
-				<a href="portfolio.php"><img src="images/home-morrissey.jpg" /></a>	
+				<a href="portfolio.php"><img src="images/home-morrissey.jpg" alt="Morrissey Construction Wordpress Design" title="Morrissey Construction Wordpress Design" /></a>	
 			</div>
 		</div>				
 	</div>
