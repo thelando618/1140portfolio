@@ -5,7 +5,7 @@ include 'includes/header.php';
 <div class="red-container home-container container">
 	<div class="row">
 		<div class="ninecol">
-			<h1 class="intro">My name is <strong>Landon Zirkelbach</strong> and I am a <strong>Front-End Developer</strong> consistently looking for the next challenge.</h1>
+			<h1 class="intro">My name is <strong>Laaaandon Zirkelbach</strong> and I am a <strong>Front-End Developer</strong> consistently looking for the next challenge.</h1>
 			<p class="intro-text">I stay up to date on emerging techniques and look to implement each one as necessary into the project I work with. I specialize in <strong>HTML, 
 				CSS, and jQuery</strong>. I have created websites from scratch but also worked with different frameworks and systems. Some technologies I have worked 
 				with include <strong>Wordpress, Drupal, CodeIgniter, HTML5 Boilerplate, and Twitter Bootstrap</strong>. I have built mobile web sites, and even created 
