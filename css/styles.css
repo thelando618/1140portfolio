@@ -279,7 +279,10 @@
 		text-align: left;
 	}
 	.nav-container {
-		margin-bottom: 1.25em;
+		margin-bottom: 4.25em;
+	}
+	.nav-container nav {
+		float: none;
 	}
 	.nav-container h1 a {
 		line-height: 1em;
@@ -292,7 +295,7 @@
 		margin: 0;
 		width: 100%;
 	}
-	.nav-container nav ul li:first-child {
+	.nav-container nav ul li {
 		margin-bottom: 0.5em;
 	}
 	.nav-container nav ul li a {
