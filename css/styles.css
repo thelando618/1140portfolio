@@ -314,6 +314,9 @@
 		padding-left: 20px;
 		text-align: left;
 	}
+	.home-container h1.intro {
+		margin: 0 0 0.5em 0;
+	}
 	.home-container .get-in-touch p.center {
 		display: none;
 	}
@@ -325,6 +328,9 @@
 	}
 	.get-in-touch .icons {
 		padding-left: 20px;
+		text-align: left;
+	}
+	.portfolio-container .get-in-touch .icons {
 		text-align: left;
 	}
 	.footer-container a.btn {
