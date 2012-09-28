@@ -48,7 +48,7 @@ include 'includes/header.php';
 			</div>
 			<p>Old Joomla site that was converted to current version of Wordpress. Multiple custom post types and loops were implemented.</p>
 			<p>Completed while at <a href="http://integritystl.com/" target="_blank">Integrity</a>.</p>
-			<p><a href="http://www.psychiatry.northwestern.edu" target="_blank">Visit Site</a></p>
+			<p><a href="http://psychiatry.northwestern.edu" target="_blank">Visit Site</a></p>
 		</div>						
 	</div><!-- End Row -->
 	<div class="row">
